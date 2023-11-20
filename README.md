@@ -1,4 +1,12 @@
-### Hi there 👋
+### Heya, I'm Shawn
+
+I started using a computer at a very young age and eventually, I had gained a curiosity of how computers and technology in general worked.
+
+Knowing the endless capabilities of tech, that inspired me to take up a career in the tech industry. So I decided to study both Computer Science and Computer Engineering, successfully earning a degree in both.
+
+Later on, I decided to enroll in App Academy to build up and refine my skills to fit the demands for the industry.
+
+Now, I currently work on my projects to keep them quality and refined to make some good impressions.
 
 <!--
 **Strasmon28/Strasmon28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
