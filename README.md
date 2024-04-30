@@ -1,7 +1,7 @@
 ### Heya, I'm Shawn
 
 ### Software Engineering Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,pycharm,cpp,c,html,css,react,redux,flask,mysql,sequelize,postman,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,pycharm,cpp,c,html,css,react,redux,flask,mysql,sequelize,postman,visualstudio,vscode&perline=8)](https://skillicons.dev)
 
 ### Computer Engineering Skills
 [![My Skills](https://skillicons.dev/icons?i=ruby,raspberrypi)](https://skillicons.dev)
