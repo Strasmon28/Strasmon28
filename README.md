@@ -1,5 +1,11 @@
 ### Heya, I'm Shawn
 
+### Software Engineering Skills
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,pycharm,cpp,c,html,css,react,redux,flask,mysql,sequelize,postman,visualstudio,vscode)](https://skillicons.dev)
+
+### Computer Engineering Skills
+[![My Skills](https://skillicons.dev/icons?i=ruby,raspberrypi)](https://skillicons.dev)
+
 I started using a computer at a very young age and eventually, I had gained a curiosity of how computers and technology in general worked.
 
 Knowing the endless capabilities of tech, that inspired me to take up a career in the tech industry. So I decided to study both Computer Science and Computer Engineering, successfully earning a degree in both.
